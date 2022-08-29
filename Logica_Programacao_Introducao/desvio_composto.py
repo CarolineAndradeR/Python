@@ -8,4 +8,4 @@ if tempo_casa < 3:
 else:
     aumento = valor_salario * 0.10
 novo_salario = valor_salario + aumento
-print("O novo salário é: ", novo_salario)
+print("O salário foi de {} para {}" .format( valor_salario, novo_salario))
