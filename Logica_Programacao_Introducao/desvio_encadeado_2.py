@@ -14,3 +14,5 @@ elif dia == 6:
     print("Sexta-Feira")
 elif dia == 7:
     print("Sábado")
+else:
+    print("Número inválido")
